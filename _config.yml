@@ -256,8 +256,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-https://github.com/jekyll/jekyll-archives
-# 원래 주석처리
+# 주석 처리
+# https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories
