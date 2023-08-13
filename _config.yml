@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Devlog of suyeoniii"
+title                    : "Suyeoniii's DEVLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kimsuyeon0916"
@@ -105,17 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "kimsuyeon0916"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "I'm a programmer who likes to challenge. I want to be a developer who's not afraid of change!"
   location         : "Korea"
-  email            : #"kimsuyeon0916@gmail.com"
+  email            : "kimsuyeon0916@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kimsuyeon0916@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://kimsuyeon0916.github.io"
+      "kimsuyeon0916@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,6 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kimsuyeon0916"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://kimsuyeon0916.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
